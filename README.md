@@ -137,7 +137,11 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexnicco98&layout=compact&theme=algolia" alt="alexnicco98" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnicco98&show_icons=true&locale=en&layout=compact" alt="alexnicco98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexnicco98&show_icons=true&locale=en" alt="alexnicco98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexnicco98&" alt="alexnicco98" /></p>
 
 -----
-Credits: [7oSkaaa](https://github.com/alexnicco98)
+Credits: [alexnicco98](https://github.com/alexnicco98)
