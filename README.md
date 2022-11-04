@@ -137,11 +137,13 @@
 
 ## :trophy: Git profile Trophies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnicco98&show_icons=true&locale=en&layout=compact" alt="alexnicco98" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alexnicco98)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexnicco98&show_icons=true&locale=en" alt="alexnicco98" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexnicco98&" alt="alexnicco98" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexnicco98)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/alexnicco98)  
 
 -----
 Credits: [alexnicco98](https://github.com/alexnicco98)
