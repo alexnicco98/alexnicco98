@@ -26,10 +26,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="a.niccolini@protonmail.com"><img img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Protonmail_logo.svg" alt="ProtonMail"/></a>
-	<a href="https://github.com/alexnicco98"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/alessandro-niccolini-154569236/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/alessandroniccolini/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="a.niccolini@protonmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="ProtonMail"/></a>
+	<a href="https://www.linkedin.com/in/alessandro-niccolini-154569236/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/alessandroniccolini/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 ## 📊 Github Stats
